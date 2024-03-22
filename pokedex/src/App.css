@@ -1,0 +1,20 @@
+.melody{
+  height: 50px;
+  width: 50px;
+}
+
+.tudo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.meow{
+  height: 50vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
